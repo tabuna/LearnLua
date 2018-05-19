@@ -1,4 +1,4 @@
-# Love Panda
+# Love Shooter
 
 A simple game in lua language
 
